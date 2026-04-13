@@ -57,3 +57,5 @@ If you talk to Skwovet downstairs and start mashing **B** as soon as you start c
 - Head back up and talk to your Mom with Nemona
 - Go complete the catching tutorial
 :::
+
+![Poco Path Rare Candy](PocoPathRareCandy.png)
