@@ -184,5 +184,15 @@ Make your way to Flamigo picking up the following items:
 - Teach **Low Kick** over **Focus Energy** *(slot 4)*
 - Swap **Wing Attack** and **Double Kick** *(slot 1 and 3)*   
 
-*screenshot stats when teaching **Low Kick** and input them into the IV Calculator*
+*screenshot stats when teaching **Low Kick** and keep note of your ability*
 :::
+
+- Go fight Klawf
+
+:::::::trainer[Titan Klawf]
+  :::::pokemon[Phase 1]
+     - Low Kick x1
+  :::::pokemon[Phase 2]
+     - Wing Attack x1
+     - Low Kick x1-2
+:::::::
