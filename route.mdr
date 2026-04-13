@@ -67,3 +67,11 @@ Use the lets go feature against wild Pokémon on Poco Path and Inlet Grotto and 
 
 *not necessary but will guarantee 3 turn Arven 1*
 :::
+
+- Make your way through the cave with Koraidon *(try not to force walk)*
+- Run over to the lighthouse and start the Arven Cutscene
+
+:::::::trainer[Arven 1]
+  :::::pokemon[Skwovet]
+     - Ember x2-3 :info[4 if Lv. 6 and low Special Attack]{color=blue}
+:::::::
