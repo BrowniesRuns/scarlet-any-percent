@@ -197,3 +197,9 @@ Make your way to Flamigo picking up the following items:
      - Wing Attack x1
      - Low Kick x1-2
 :::::::
+
+:info[**FREE HEAL**]{color=pink}
+
+:variable{name="Range" type="boolean" title="Are you willing to go for the 12/16 on Corviknight?"}
+
+Carbos at level 82 is less than :calc[floor(hp / 3)]{source="Squirtle" level=10} HP
