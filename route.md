@@ -1,0 +1,59 @@
+:::tracker{species="Flamigo" baseStats="[[82,115,74,75,64,90]]"}
+25:
+:::
+
+# Pokémon Scarlet / Violet
+## Any% Glitchless Notes
+----
+**Source**: [Original Notes by Crisis (small changes by me)](https://docs.google.com/document/d/1rp6XQ4uv_9wuz8bRSrF7TTo6sFsoTgoYm_ud0SC_Sso/edit?tab=t.0#heading=h.gyvqxv4pz6nh)
+
+### Important Information
+These notes where written for:info[**Scarlet**]{color=red} version however it can also be run on:info[**Violet**]{color=pink} version but may be unoptimal
+
+:::card{theme=warning}
+**Before the Run starts**
+- Complete the 3 or so minute intro and wait till you are able to control your character from the floor
+- DO NOT change any settings as they are part of the run
+
+**If playing on Switch 1**
+- Close the game after the autosave and re open 
+:::
+
+[Full Violet notes made by Icarushollow](https://docs.google.com/document/d/1ZTmeDTMoKbX7SnCpiMSOTls6riswFI-gbWyXE0ky2YI/edit)
+
+----
+:::card{theme=info}
+**Options**
+- Text Speed - **Fast**
+- Skip Move Learning - **On**
+- Give Nicknames - **Off**
+- Skip Cutscenes - **On**
+- *Autosave - ***Off****
+
+*If you are on Switch 2 autosave doesnt matter but on Switch 1 might lose you some time or could ruin the run if game crashes*
+:::
+
+
+- Head downstairs and follow cutscenes
+
+:::card{theme=info}
+**Running Indoors:**
+If you talk to Skwovet downstairs and start mashing **B** as soon as you start crouching down to talk to him you should slide and be able to run indoors. this should save around 10 seconds
+:::
+
+- Head outside with Clavell and walk down to Nemona's house with the 3 starter pokemon
+- Pick:info[**Fuecoco**]{color=red} as your starter:info[*its stats do not matter*]{color=gray}
+
+:info[**ADD GIF HERE OF SLIDE MOVEMENT**]{color=red}
+
+:::::::trainer[Nemona 1]
+  :::::pokemon[Sprigatitto]
+     - Ember x2
+:::::::
+
+:info[**FREE HEAL**]{color=pink}
+
+:::dropdown{title="More Detailed Directions" theme="error"}
+- Head back up and talk to your Mom with Nemona
+- Go complete the catching tutorial
+:::
