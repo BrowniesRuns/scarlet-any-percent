@@ -202,7 +202,7 @@ Make your way to Flamigo picking up the following items:
 
 :variable{name="Range" type="boolean" title="Are you willing to go for the 12/16 on Corviknight?"}
 
-:::if(source="16/16" condition="$Range")       
+:::if(source="Flamigo" condition="$Range")       
   :::if(source="Flamigo" condition="spatk=(x/x/30-31)")
       buy 6 Proteins
   :::
